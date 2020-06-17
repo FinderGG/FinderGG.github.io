@@ -1,7 +1,7 @@
 ## Welcome to iPrevew
 
 - Previews in **Finder, Quick Look, Spotlight**.
-- Supported multiple file, **Source Code, 3D Modeles, Image, other** file types, etc.
+- Supported multiple file, **Source Code, Markdown, Jupyter, Latex, 3D Modeles, Image, other** file types, etc.
 - Supported **Light** and **Dark Mode**.
 
 ### Screenshots
