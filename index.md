@@ -22,6 +22,6 @@
 - Supported *Webp, Avif*
 
 ### Other
-- README, Podfile, LICENSE, Gemfile and many more
+- **README, Podfile, LICENSE, Gemfile** and many more
 
 ### Privacy
