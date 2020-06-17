@@ -5,7 +5,13 @@
 - Supported **Light** and **Dark Mode**.
 
 ### Screenshots
-![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
+- Preference
+  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
+  
+- Finder & Quick Look
+  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
+- Spotlight
+  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
 
 
 ### Source Code
