@@ -1,5 +1,8 @@
 ## Welcome to iPrevew
 
+- Previews in **Finder, Quick Look, Spotlight**.
+- Supported multiple file, **Source Code, 3D Modeles, Image, other** file types, etc.
+- Supported **Light** and **Dark Mode**.
 
 ### Screenshots
 ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
@@ -7,7 +10,7 @@
 
 ### Source Code
 - Supported multiple Source Code file, ***.js, jsx, tsx, .vue, .css, .less, .scss, .wxml, .wxss, objc, .swift, .java, .kotlin, .dart, .py, .rb, .rs, .go, .json, .yml*** and many more.
-- Supported **Dark Theme** and multiple code **highlight theme**.
+- Supported **Dark Mode** and multiple code **highlight theme**.
 
 ### Document
 - Supported ***Markdown, Jupyter and Latex***
