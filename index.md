@@ -2,8 +2,7 @@
 
 
 ### Screenshots
-![iPreview-source-code](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/code_setting.png)
-![iPreview-sd-modeles](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/3d_setting.png)
+![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
 
 
 ### Source Code
