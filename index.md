@@ -11,7 +11,7 @@
 - Supported **Dark Theme** and multiple code **highlight theme**.
 
 ### Document
-- Supported *Markdown, Jupyter and Latex*
+- Supported ***Markdown, Jupyter and Latex***
 
 ### 3D Modeles
 - Supported multiple 3d Model file, ***.3ds, .ac, .ase, .b3d, .blend, .cob, .dae, .csm, .dxf, .fbx, .lwo, .md2, .md5mesh, .mdl, .ms3d, .nff, .obj, .off,.ply, .q3o, .smd, .stl*** and many more.
