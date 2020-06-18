@@ -1,7 +1,7 @@
 ## Welcome to iPrevew
 
 - Previews in **Finder, Quick Look, Spotlight**.
-- Supported multiple file, **Source Code, Markdown, Jupyter, Latex, 3D Modeles, Image, other** file types, etc.
+- Supported multiple file, **Source Code, Markdown, Jupyter, Math typeset, 3D Models, Image, other** file types, etc.
 - Supported **Light** and **Dark Mode**.
 
 ### Screenshots
@@ -22,18 +22,19 @@
 - Supported **Dark Mode** and multiple **Syntax highlight**theme.
 
 ### Document
-- Supported ***Markdown, Jupyter*** and ***Math typesetting***
+- Supported ***Markdown, Jupyter*** and ***Math typeset***.
 
-### 3D Modeles
+### 3D Models
 - Supported multiple 3d Model file, ***.3ds, .ac, .ase, .b3d, .blend, .cob, .dae, .csm, .dxf, .fbx, .lwo, .md2, .md5mesh, .mdl, .ms3d, .nff, .obj, .off,.ply, .q3o, .smd, .stl*** and many more.
 - Render mode, ***Phsics, Bounding boxes, Wireframe, Skeleton,*** etc.
 - Animation.
 
 ### Image
-- Supported ***Webp, Avif***
+- Supported ***Webp, Avif***.
+- Supported display image size.
 
 ### Other
-- ***.properties, .gradle, .iml, README, Podfile, LICENSE, Gemfile*** and many more
+- ***.properties, .gradle, .iml, README, Podfile, LICENSE, Gemfile*** and many more.
 
 ### Privacy
 - iPreview do not collect, store or transmit any user data whatsoever.
