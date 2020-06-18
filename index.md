@@ -36,3 +36,5 @@
 - ***.properties, .gradle, .iml, README, Podfile, LICENSE, Gemfile*** and many more
 
 ### Privacy
+- iPreview do not collect, store or transmit any user data whatsoever.
+
