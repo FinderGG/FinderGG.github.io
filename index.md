@@ -14,7 +14,7 @@
   ![iPreview-image](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/image-en.png)
   ![iPreview-3d](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/3d-en.png)
 - Spotlight
-  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
+  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/spotlight.png)
 
 
 ### Source Code
