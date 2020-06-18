@@ -39,3 +39,6 @@
 ### Privacy
 - iPreview do not collect, store or transmit any user data whatsoever.
 - We may update our privacy policy from time to time. Therefore, we recommend that you regularly check this page for any changes. We will notify you of any changes by posting a new privacy policy on this page. These changes will take effect immediately after they are posted on this page.
+- If you have any questions about this Privacy Policy, please contact us.
+
+
