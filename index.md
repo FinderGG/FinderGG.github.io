@@ -30,6 +30,6 @@
 - Supported ***Webp, Avif***
 
 ### Other
-- ***README, Podfile, LICENSE, Gemfile*** and many more
+- ***.properties, .gradle, .iml, README, Podfile, LICENSE, Gemfile*** and many more
 
 ### Privacy
