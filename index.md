@@ -9,7 +9,10 @@
   ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
   
 - Finder & Quick Look
-  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
+  ![iPreview-code](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/code-en.png)
+  ![iPreview-markdown](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/markdown-en.png)
+  ![iPreview-image](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/image-en.png)
+  ![iPreview-3d](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/3d-en.png)
 - Spotlight
   ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
 
