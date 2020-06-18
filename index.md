@@ -19,10 +19,10 @@
 
 ### Source Code
 - Supported multiple Source Code file, ***.js, jsx, tsx, .vue, .css, .less, .scss, .wxml, .wxss, objc, .swift, .java, .kotlin, .dart, .py, .rb, .rs, .go, .json, .yml*** and many more.
-- Supported **Dark Mode** and multiple code **highlight theme**.
+- Supported **Dark Mode** and multiple **Syntax highlight**theme.
 
 ### Document
-- Supported ***Markdown, Jupyter and Latex***
+- Supported ***Markdown, Jupyter*** and ***Math typesetting***
 
 ### 3D Modeles
 - Supported multiple 3d Model file, ***.3ds, .ac, .ase, .b3d, .blend, .cob, .dae, .csm, .dxf, .fbx, .lwo, .md2, .md5mesh, .mdl, .ms3d, .nff, .obj, .off,.ply, .q3o, .smd, .stl*** and many more.
