@@ -6,15 +6,15 @@
 
 ### Screenshots
 - Preference
-  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/setting-panl.png)
+  ![iPreview-setting](https://i.loli.net/2020/06/24/X34H5aZtgoND7wn.png)
   
 - Finder & Quick Look
-  ![iPreview-code](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/code-en.png)
-  ![iPreview-markdown](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/markdown-en.png)
-  ![iPreview-image](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/image-en.png)
-  ![iPreview-3d](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/3d-en.png)
+  ![iPreview-code](https://i.loli.net/2020/06/24/7jL6OIC5xtWdnFb.png)
+  ![iPreview-markdown](https://i.loli.net/2020/06/24/TMbfoPJyurAqwxU.png)
+  ![iPreview-image](https://i.loli.net/2020/06/24/9qmNRkbDwZ7snfG.png)
+  ![iPreview-3d](https://i.loli.net/2020/06/24/ZOH19xeaGWncIfr.png)
 - Spotlight
-  ![iPreview-setting](https://raw.githubusercontent.com/FinderGG/FinderGG.github.io/master/spotlight.png)
+  ![iPreview-setting](https://i.loli.net/2020/06/24/8PwYg9bKBjLtTOp.png)
 
 
 ### Source Code
