@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: iPreview
 description: iPreview provides quicklook preview for source code, Markdown, Jupyter, Webp, Avif, 3D Model and any more file types in macOS Finder, Quicklook, Spotlight
 google_analytics: UA-138610487-4
+app_store:
+  show: true
+  title: 
