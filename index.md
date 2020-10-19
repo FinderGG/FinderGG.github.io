@@ -20,6 +20,11 @@
 ### Source Code
 - Supported multiple Source Code file, ***.js, jsx, tsx, .vue, .css, .less, .scss, .wxml, .wxss, objc, .swift, .java, .kotlin, .dart, .py, .rb, .rs, .go, .json, .yml*** and many more.
 - Supported **Dark Mode** and multiple **Syntax highlight**theme.
+<details>
+<summary>file type</summary>
+
+content!!!
+</details>
 
 ### Document
 - Supported ***Markdown, Jupyter*** and ***Math typeset***.
