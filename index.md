@@ -44,6 +44,11 @@
 ### Other
 - ***README, LICENSE, Podfile , Gemfile*** and many more.
 
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
 ## Supported files
 |  Type   | Files  |
 |  ----  | ----  |
