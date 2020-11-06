@@ -44,17 +44,6 @@
 ### Other
 - ***README, LICENSE, Podfile , Gemfile*** and many more.
 
-|  表头2   | 表头  |
-|  -  | -  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
-
-
-| Type | Files |
-| - | - |
-| Source Code | .c, .h, .m, .mm, .java, .kt, .swift, .dart, .bash, .py, .go, .lua, .rs, .php,  .josn, .js, .vue,  .tsx, .jsx, .ux, .wxml, .css, .wxss, .less, scss, .sass, .gradle, .iml, .properties, .strings, .sh, .rb , erb, ru, .conf, .styl, .do, .slim ,.haml, .ini, .toml, .psd1, .cs, .lock, .swig, .ejs, .coffee, .yaml |
-| Document | .md, .ipynb |
-
 ## Supported files
 
 | Type | Files |
