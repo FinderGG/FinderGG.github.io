@@ -49,17 +49,24 @@
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
+
+| Type | Files |
+| - | - |
+| Source Code | .c, .h, .m, .mm, .java, .kt, .swift, .dart, .bash, .py, .go, .lua, .rs, .php,  .josn, .js, .vue,  .tsx, .jsx, .ux, .wxml, .css, .wxss, .less, scss, .sass, .gradle, .iml, .properties, .strings, .sh, .rb , erb, ru, .conf, .styl, .do, .slim ,.haml, .ini, .toml, .psd1, .cs, .lock, .swig, .ejs, .coffee, .yaml |
+| Document | .md, .ipynb |
+
 ## Supported files
-|  Type   | Files  |
-|  -   | -  |
-|  Source Code | .c, .h, .m, .mm, .java, .kt, .swift, .dart, .bash, .py, .go, .lua, .rs, .php,  .josn, .js, .vue,  .tsx, .jsx, .ux, .wxml, .css, .wxss, .less, scss, .sass, .gradle, .iml, .properties, .strings, .sh, .rb , erb, ru, .conf, .styl, .do, .slim ,.haml, .ini, .toml, .psd1, .cs, .lock, .swig, .ejs, .coffee, .yaml |
-| Document  | .md, .ipynb |
-| 3D  | .fbx, .dae, .dxf, .3ds, .ac, .ase, .blend, .bvh, .cob, .csm, .hmp, .ifc, .irr, .irrmesh, .lwo, .lxo, .lws, .md2, .md5mesh, .mdl, .ms3d, .nff, .smd, .stl, .ter, .wrl, .x, .zgl, .q30 |
-| Table  | .tsv, .tab |
-| Subtitle  | .ass, .srt |
-| Image  | .webp, .avif |
-| Archive  | .zip, .rar |
-| Other  | README, LICENSE, Podfile, Gemfile, Makefile, Dockerfile .gitignore, .zshrc, .bashrc, .vimrc, .irbrc  |
+
+| Type | Files |
+| - | - |
+| Source Code | .c, .h, .m, .mm, .java, .kt, .swift, .dart, .bash, .py, .go, .lua, .rs, .php,  .josn, .js, .vue,  .tsx, .jsx, .ux, .wxml, .css, .wxss, .less, scss, .sass, .gradle, .iml, .properties, .strings, .sh, .rb , erb, ru, .conf, .styl, .do, .slim ,.haml, .ini, .toml, .psd1, .cs, .lock, .swig, .ejs, .coffee, .yaml |
+| Document | .md, .ipynb |
+| 3D | .fbx, .dae, .dxf, .3ds, .ac, .ase, .blend, .bvh, .cob, .csm, .hmp, .ifc, .irr, .irrmesh, .lwo, .lxo, .lws, .md2, .md5mesh, .mdl, .ms3d, .nff, .smd, .stl, .ter, .wrl, .x, .zgl, .q30 |
+| Table | .tsv, .tab |
+| Subtitle | .ass, .srt |
+| Image | .webp, .avif |
+| Archive | .zip, .rar |
+| Other | README, LICENSE, Podfile, Gemfile, Makefile, Dockerfile .gitignore, .zshrc, .bashrc, .vimrc, .irbrc |
 
 
 ### Privacy
