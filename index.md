@@ -44,14 +44,14 @@
 ### Other
 - ***README, LICENSE, Podfile , Gemfile*** and many more.
 
-|  表头   | 表头  |
-|  ----  | ----  |
+|  表头2   | 表头  |
+|  -  | -  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
 ## Supported files
 |  Type   | Files  |
-|  ----   | ----   |
+|  -   | -  |
 |  Source Code | .c, .h, .m, .mm, .java, .kt, .swift, .dart, .bash, .py, .go, .lua, .rs, .php,  .josn, .js, .vue,  .tsx, .jsx, .ux, .wxml, .css, .wxss, .less, scss, .sass, .gradle, .iml, .properties, .strings, .sh, .rb , erb, ru, .conf, .styl, .do, .slim ,.haml, .ini, .toml, .psd1, .cs, .lock, .swig, .ejs, .coffee, .yaml |
 | Document  | .md, .ipynb |
 | 3D  | .fbx, .dae, .dxf, .3ds, .ac, .ase, .blend, .bvh, .cob, .csm, .hmp, .ifc, .irr, .irrmesh, .lwo, .lxo, .lws, .md2, .md5mesh, .mdl, .ms3d, .nff, .smd, .stl, .ter, .wrl, .x, .zgl, .q30 |
